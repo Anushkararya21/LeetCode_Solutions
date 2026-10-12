@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [2396-strictly-palindromic-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
