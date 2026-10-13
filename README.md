@@ -17,11 +17,13 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
