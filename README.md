@@ -21,6 +21,7 @@
 | [0055-jump-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
 |  |
 | ------- |
