@@ -21,6 +21,7 @@
 | [0055-jump-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0904-fruit-into-baskets](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
 |  |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0904-fruit-into-baskets](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
