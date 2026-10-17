@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [2396-strictly-palindromic-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -62,4 +63,12 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
