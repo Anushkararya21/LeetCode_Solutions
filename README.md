@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
