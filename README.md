@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0904-fruit-into-baskets](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
 | ------- |
