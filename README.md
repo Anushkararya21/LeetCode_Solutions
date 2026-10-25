@@ -33,6 +33,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,4 +96,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
