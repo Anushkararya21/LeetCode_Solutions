@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -90,6 +92,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Enumeration
