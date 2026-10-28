@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
@@ -108,4 +109,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
