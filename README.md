@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
@@ -121,12 +122,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
