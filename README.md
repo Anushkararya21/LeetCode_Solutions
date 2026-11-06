@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -134,6 +135,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
