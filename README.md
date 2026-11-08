@@ -13,6 +13,7 @@
 | [0319-bulb-switcher](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1025-divisor-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Array
 |  |
@@ -49,6 +51,7 @@
 | [0055-jump-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,4 +144,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
