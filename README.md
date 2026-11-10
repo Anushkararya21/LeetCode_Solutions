@@ -14,6 +14,7 @@
 | [0342-power-of-four](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1025-divisor-game) |
+| [1492-the-kth-factor-of-n](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2396-strictly-palindromic-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -156,4 +157,12 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1025-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
