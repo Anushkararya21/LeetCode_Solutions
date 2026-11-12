@@ -63,6 +63,7 @@
 | [0049-group-anagrams](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0904-fruit-into-baskets](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1748-sum-of-unique-elements](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
@@ -115,6 +117,7 @@
 | [0013-roman-to-integer](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 ## Enumeration
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
