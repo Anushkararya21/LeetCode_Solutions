@@ -19,6 +19,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -172,4 +175,12 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1492-the-kth-factor-of-n) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
