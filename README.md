@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -183,4 +184,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0075-sort-colors) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
