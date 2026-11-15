@@ -15,6 +15,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2396-strictly-palindromic-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -188,4 +189,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
