@@ -43,6 +43,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0875-koko-eating-bananas](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -110,6 +111,7 @@
 | [0069-sqrtx](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
