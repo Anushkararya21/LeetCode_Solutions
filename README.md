@@ -125,6 +125,7 @@
 | [0049-group-anagrams](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [2390-removing-stars-from-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -195,4 +196,9 @@
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2390-removing-stars-from-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
