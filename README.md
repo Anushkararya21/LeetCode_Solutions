@@ -44,6 +44,7 @@
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -203,9 +204,11 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
