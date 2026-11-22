@@ -128,6 +128,7 @@
 | [0049-group-anagrams](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [1021-remove-outermost-parentheses](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
@@ -205,10 +206,15 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
