@@ -50,6 +50,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1550-three-consecutive-odds](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -207,12 +208,14 @@
 | [0496-next-greater-element-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
