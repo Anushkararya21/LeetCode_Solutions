@@ -44,6 +44,7 @@
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -200,12 +201,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
