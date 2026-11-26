@@ -48,6 +48,7 @@
 | [0739-daily-temperatures](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
+| [1051-height-checker](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -87,6 +88,7 @@
 | [0075-sort-colors](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [1051-height-checker](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1051-height-checker) |
 ## Interactive
 |  |
 | ------- |
@@ -223,4 +226,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
