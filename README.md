@@ -117,6 +117,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -201,6 +202,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Anushkararya21/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Simulation
 |  |
 | ------- |
